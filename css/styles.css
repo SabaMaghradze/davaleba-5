@@ -1,3 +1,5 @@
+/* header */
+
 header {
     width: 1440px;
     background-color: #2A9D8F;
@@ -27,11 +29,132 @@ nav ul li {
     display: inline-block;
 }
 
-.list{
+.list {
     margin-right: 51px;
 }
 
-.headerFrame{
+.headerFrame {
     display: inline-block;
     vertical-align: middle;
 }
+
+/* section one */
+
+.section1 {
+    width: 780px;
+    margin-top: 200px;
+    margin-inline: auto;
+}
+
+.sect1H2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    color: #4D4D4D;
+    margin-left: 219px;
+}
+
+.p1 {
+    font-family: 'Nerko One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #656565;
+}
+
+#firstP {
+    margin-bottom: 52px;
+    margin-top: 60px;
+}
+
+/* section two */
+
+.section2 {
+    width: 1440px;
+    background-color: #C2F3EE;
+    margin-top: 200px;
+    margin-inline: auto;
+    padding: 80px 0px 80px 130px;
+}
+
+.sect2Photo {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.sect2Texts {
+    display: inline-block;
+    width: 486px;
+    vertical-align: top;
+    margin-left: 100px;
+}
+
+.sect2H2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    color: #272727;
+    margin-bottom: 27px;
+    line-height: 48px;
+    width: 483px;
+    height: 96px;
+}
+
+.sect2P {
+    color: #515151;
+    width: 483px;
+    height: 324px;
+    left: 830px;
+    top: 1159px;
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.frame6 {
+    margin-top: 45px;
+}
+
+/* section3 */
+
+.section3 {
+    width: 1180px;
+    margin-top: 200px;
+    margin-inline: auto;
+}
+
+.sect3H2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    color: #4D4D4D;
+    margin-left: 360px;
+    margin-bottom: 54px;
+}
+
+.sect3div1 {
+    display: inline-block;
+    
+}
+
+.sect3div2 {
+    display: inline-block;
+    
+    margin-left: 16px;
+}
+
+.sect3Text {
+    margin-top: 32px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: #535353;
+}
+
